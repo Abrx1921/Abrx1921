@@ -10,3 +10,7 @@
 - Data Manipulation: Excel, Google Sheets
 - Visualization: Tableau
 - Database: BigQuery, MySQL
+
+:star: Credentials: 
+
+- Google Data Analytics Professional Certificate
