@@ -6,7 +6,7 @@
 
 💻 Data Analysis Toolkit:
 
-- Languages: R, SQL
+- Languages: R, SQL, Python
 - Data Manipulation: Excel, Google Sheets
 - Visualization: Tableau
 - Database: BigQuery, MySQL
