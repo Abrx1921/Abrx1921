@@ -9,7 +9,7 @@
 - Languages: R, SQL, Python
 - Data Manipulation: Excel, Google Sheets
 - Visualization: Tableau
-- Database: BigQuery, MySQL
+- Database: BigQuery, MySQL, PostgreSQL
 
 :star: Credentials: 
 
