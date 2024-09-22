@@ -14,3 +14,4 @@
 :star: Credentials: 
 
 - Google Data Analytics Professional Certificate
+- DataCamp: Data Analyst Associate Certificate
