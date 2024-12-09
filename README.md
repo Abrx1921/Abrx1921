@@ -15,3 +15,4 @@
 
 - Google Data Analytics Professional Certificate
 - DataCamp: Data Analyst Associate Certificate
+- DataCamp: Professional Data Analyst Certificate
