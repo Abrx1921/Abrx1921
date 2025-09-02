@@ -1,6 +1,7 @@
-⚡ About:
-- Entry Level Data Analyst
-- Currently immersed in building my skillset to become a proficient data analyst.
+⚡ About: 
+🎓 Data Science student at Arizona State University
+- Data Analyst -> Data Scientist
+- Currently immersed in building my skillset to become a proficient data analyst. Check out my professional projects on my website!
 - Previously dedicated my self to athletics, graphic design and music composition. 
 
 
